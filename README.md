@@ -1,7 +1,10 @@
 # football
 It is a football management android app
 
-An APK can be found under key/release/
+An APK can be found under 
+football/cse_470_project/keys/release/app-release.apk
+
+
 
 
 Owner Login Info :
