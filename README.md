@@ -1,6 +1,9 @@
 # football
 It is a football management android app
 
+An APK can be found under key/release/
+
+
 Owner Login Info :
 Id: o001
 password: www321
