@@ -1,6 +1,8 @@
 # football
 It is a football management android app
 
+Currently Database used in the project, is Locked by me. Only source code uploaded
+
 An APK can be found under 
 football/cse_470_project/keys/release/app-release.apk
 
